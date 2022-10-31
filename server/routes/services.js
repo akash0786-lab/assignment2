@@ -5,7 +5,7 @@ var router = express.Router();
 router.get('/', function(req, res, next) {
   res.render('services', { 
     title: 'Services',
-    userName: 'Manipal Singh Sidhu', 
+    userName: 'Akash Arora', 
     displayName: req.user ? req.user.displayName : ''
    });
 });

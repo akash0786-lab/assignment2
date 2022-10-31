@@ -1,3 +1,5 @@
+/* File: app.js - Created by: Akash Arora - Student Number: 300849838 - Created on: October 22nd, 2022 */
+
 console.log('Goes to the client side.');
 // IIFE -- Immediately Invoked Function Expression
 (function(){
